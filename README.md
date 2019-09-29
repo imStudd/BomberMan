@@ -1,5 +1,5 @@
 # BomberMan
-  BomberMan multiplayer implemented in Python
+  BomberMan multiplayer implemented in Python for an university courses.
 
 ## Prerequisites
   * Python 3
@@ -15,5 +15,3 @@
   * Bomb: SPACE
   * Restart: ENTER
   * Leave: ESC
-
-## TODO
