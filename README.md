@@ -6,8 +6,11 @@
   * Tkinter
   * Pygame
 
-## How to play
-
+## How to use
+  ### Launch
+    python3 BomberMan.py
+  
+  ### Play
   * Movement:  ←↑↓→ / QZSD / WASD
   * Bomb: SPACE
   * Restart: ENTER
