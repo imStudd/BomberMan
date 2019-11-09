@@ -1,5 +1,5 @@
 # BomberMan
-  BomberMan multiplayer implemented in Python for an university courses.
+  BomberMan multiplayer implemented in Python for an university course.
   
   Note: You can find two others implementation in [C++](https://github.com/TheMagnat/Bomberman-Reseau-C-SFML) and [Go](https://github.com/3t13nn3/-S4-Network-Bomberman-Game).
   
